@@ -1,4 +1,5 @@
 ﻿using System;
+using TestApplication.Code;
 using Xamarin.Forms;
 
 namespace TestApplication
@@ -7,8 +8,7 @@ namespace TestApplication
    {
       public App()
       {
-
-         MainPage = new CalcCode();
+         MainPage = new Calculator();
          //MainPage = new ContentPage { Content = new StackLayout { VerticalOptions = LayoutOptions.Center, Children = { new Label { HorizontalTextAlignment = TextAlignment.Center, Text = "Welcome to Xamarin Forms!" }}}};
       }
 
