@@ -10,5 +10,3 @@ D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplicat
 D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
 D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.dll.mdb
 D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.dll.mdb
-D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.dll.mdb
-D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.dll.mdb
