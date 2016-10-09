@@ -1,0 +1,14 @@
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.dll
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\Xamarin.Forms.Core.dll
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\Xamarin.Forms.Core.xml
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.dll.mdb
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.dll.mdb
+D:\Github\TestApplication\TestApplication\TestApplication\obj\Debug\TestApplication.dll.mdb
+D:\Github\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.dll.mdb
