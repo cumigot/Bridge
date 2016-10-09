@@ -38,6 +38,7 @@
     <Compile Include="App.cs" />
     <Compile Include="Code\Calculator.cs" />
     <Compile Include="Code\GridGamePage.cs" />
+    <Compile Include="Code\Page1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
