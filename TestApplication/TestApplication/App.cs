@@ -8,7 +8,7 @@ namespace TestApplication
    {
       public App()
       {
-         MainPage = new Calculator();
+         MainPage = new GridGamePage();
          //MainPage = new ContentPage { Content = new StackLayout { VerticalOptions = LayoutOptions.Center, Children = { new Label { HorizontalTextAlignment = TextAlignment.Center, Text = "Welcome to Xamarin Forms!" }}}};
       }
 
